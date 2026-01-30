@@ -69,5 +69,3 @@ Retrieves the current active poll status and details for the frontend applicatio
 * **Architecture:** Event-driven architecture triggered via **API Gateway**
 
 ---
-
-מוכן להדבקה ישר ל-README 👍
